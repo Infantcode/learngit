@@ -6,6 +6,7 @@ Git tracks changes.
 Git has a detouch
 Git hello world  2nd
 full
+add merge
 <<<<<<< HEAD
 Creating a new branch is quick & simple.
 =======
